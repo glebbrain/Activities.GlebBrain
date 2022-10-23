@@ -7,6 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Activities.GlebBrain", "Act
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestActivities", "TestActivities\TestActivities.csproj", "{8EA244D2-919A-4069-9DD2-E204B3EEBF5D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PIX Scripts", "PIX Scripts", "{ED22EB35-0674-4CBF-8DA3-3A7678E05A7C}"
+	ProjectSection(SolutionItems) = preProject
+		PIX Scripts\Новый скрипт.pix = PIX Scripts\Новый скрипт.pix
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
