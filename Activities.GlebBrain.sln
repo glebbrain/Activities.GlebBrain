@@ -3,14 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Activities.GlebBrain", "Activities.GlebBrain\Activities.GlebBrain.csproj", "{067399C7-E283-4523-8B46-70025CB70B1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Activities.GlebBrain", "Activities.GlebBrain\Activities.GlebBrain.csproj", "{067399C7-E283-4523-8B46-70025CB70B1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestActivities", "TestActivities\TestActivities.csproj", "{8EA244D2-919A-4069-9DD2-E204B3EEBF5D}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PIX script", "PIX script", "{9FCB0AF2-DD7E-4AF6-97EA-9339367D0C6B}"
-	ProjectSection(SolutionItems) = preProject
-		Новый скрипт.pix = Новый скрипт.pix
-	EndProjectSection
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestActivities", "TestActivities\TestActivities.csproj", "{8EA244D2-919A-4069-9DD2-E204B3EEBF5D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
