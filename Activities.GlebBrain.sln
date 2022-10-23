@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Activities.GlebBrain", "Activities.GlebBrain\Activities.GlebBrain.csproj", "{067399C7-E283-4523-8B46-70025CB70B1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestActivities", "TestActivities\TestActivities.csproj", "{8EA244D2-919A-4069-9DD2-E204B3EEBF5D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PIX script", "PIX script", "{9FCB0AF2-DD7E-4AF6-97EA-9339367D0C6B}"
+	ProjectSection(SolutionItems) = preProject
+		Новый скрипт.pix = Новый скрипт.pix
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{067399C7-E283-4523-8B46-70025CB70B1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067399C7-E283-4523-8B46-70025CB70B1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{067399C7-E283-4523-8B46-70025CB70B1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067399C7-E283-4523-8B46-70025CB70B1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EA244D2-919A-4069-9DD2-E204B3EEBF5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EA244D2-919A-4069-9DD2-E204B3EEBF5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EA244D2-919A-4069-9DD2-E204B3EEBF5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EA244D2-919A-4069-9DD2-E204B3EEBF5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97F29DBD-DC9A-4B61-A805-BE69BBAA0612}
+	EndGlobalSection
+EndGlobal
