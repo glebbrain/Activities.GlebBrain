@@ -10,6 +10,6 @@
 Расположение активности: окно Активности -> GlebBrain -> Windows
 
 Пример использования, открыть скрипт в PIX Studio:
-https://github.com/glebbrain/Activities.GlebBrain/blob/main/PIX%20Scripts/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%82.pix
+https://github.com/glebbrain/Activities.GlebBrain/blob/main/PIX%20Scripts/
 
 Активность протестирована на PIX Studio 2.11.2
