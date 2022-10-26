@@ -7,9 +7,13 @@
     2.2. для версии x32: C:\Program Files (x86)\PIX\
 3. Запустить PIX Studio
 
-Расположение активности: окно Активности -> GlebBrain -> Windows
+Расположение активностей: 
+Окно Активности -> GlebBrain -> Windows
 
 Пример использования, скачать и открыть скрипт в PIX Studio:
 https://github.com/glebbrain/Activities.GlebBrain/blob/main/PIX%20Scripts/
 
-Активность протестирована на PIX Studio 2.11.2
+Активности протестированы на PIX Studio 2.11.2
+
+--------
+
