@@ -16,7 +16,7 @@ https://github.com/glebbrain/Activities.GlebBrain/blob/main/PIX%20Scripts/
 Активности протестированы на PIX Studio 2.11.2
 
 После установки, активности расположены:
-<img src="![image](https://user-images.githubusercontent.com/4953847/204280723-04003369-fbb4-47ea-aac6-745b2ae22fc9.png)" width="100">
+<img src="https://user-images.githubusercontent.com/4953847/204280723-04003369-fbb4-47ea-aac6-745b2ae22fc9.png" width="100">
 ![image](https://user-images.githubusercontent.com/4953847/204280723-04003369-fbb4-47ea-aac6-745b2ae22fc9.png)
 
 ![image](https://user-images.githubusercontent.com/4953847/204280944-3b1b3a27-3cb3-499c-ab8f-600c9317408b.png)
