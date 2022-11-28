@@ -19,6 +19,7 @@ https://github.com/glebbrain/Activities.GlebBrain/blob/main/PIX%20Scripts/
 
 <img src="https://user-images.githubusercontent.com/4953847/204280723-04003369-fbb4-47ea-aac6-745b2ae22fc9.png" width="300">
 <img src="https://user-images.githubusercontent.com/4953847/204280944-3b1b3a27-3cb3-499c-ab8f-600c9317408b.png" width="300">
+<img src="https://user-images.githubusercontent.com/4953847/204282156-9bd3c123-49e4-4a98-9ac6-d9280b3020c2.png" width="300">
 
 --------
 
