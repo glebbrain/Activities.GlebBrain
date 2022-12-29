@@ -3,9 +3,9 @@
 Установка:
 1. Скомпилировать проект в Microsoft Visual Studio Community 2022
 3. Из папки bin скопировать Activities.GlebBrain в папку с установленым PIX
-    2.1. для версии x64: C:\Program Files\PIX\
-    2.2. для версии x32: C:\Program Files (x86)\PIX\
-4. Запустить PIX Studio
+4. для версии x64: C:\Program Files\PIX\
+5. для версии x32: C:\Program Files (x86)\PIX\
+6. Запустить PIX Studio
 
 Расположение активностей: 
 Окно Активности -> GlebBrain -> Windows
